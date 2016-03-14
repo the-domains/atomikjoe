@@ -1,0 +1,28 @@
+name: Atomik Joe
+favicon: null
+layout_spectrum: 0.9441051061730832
+typography_spectrum: 0.03895536414347589
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#ADD7F6'
+    - '#87BFFF'
+    - '#3F8EFC'
+    - '#2667FF'
+    - '#3B28CC'
+  brandStrength: 0.35569301899522543
+  lightness: 0.9639062478672713
+  saturation: 0.17347513418644667
+  rhythmicContrast: 0.7834936094004661
+purpose: []
